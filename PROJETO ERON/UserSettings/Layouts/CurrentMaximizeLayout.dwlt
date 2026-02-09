@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 20866
+  controlID: 54096
   draggingID: 0
 --- !u!114 &2
 MonoBehaviour:
@@ -151,7 +151,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 20821
+  controlID: 54054
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -177,7 +177,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 20812
+  controlID: 54045
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -246,7 +246,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 3a48feffd648feff6a49fefffe49feff924afeff0a4ffeffcc4ffeff1458feff38fdfeffdc01ffffac02ffff2411ffff529cffff7c9cffffe6a9ffff78aaffff36abffff6cacfffffeacffff3af1ffff
+      m_ExpandedIDs: b21cfcff801dfcff8222fcff5223fcffe425fcff9a26fcff5c27fcff7a2ffcff3c30fcff1431fcff4e4ffcffea4ffcff8250fcffec54fcffd855fcff485bfcffae5ffcff6462fcfff266fcff3a48feffd648feff6a49fefffe49feff924afeff0a4ffeffcc4ffeff1458feff38fdfeffdc01ffffac02ffff2411ffff529cffff7c9cffffe6a9ffff78aaffff36abffff6cacfffffeacffff3af1ffff14580100be5a0100
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -405,7 +405,7 @@ MonoBehaviour:
       sizeOverridden: 0
     - dockPosition: 1
       containerId: overlay-toolbar__top
-      displayed: 1
+      displayed: 0
       id: Scene View/Tilemap Focus
       index: 4
       contents: '{"m_Layout":4,"m_Collapsed":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":24.0,"y":24.799999237060548},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
@@ -878,9 +878,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 3.6340122, y: 0.34840402, z: 0.018465118}
+    m_Target: {x: -0.5966136, y: 0.08998439, z: -0.028893892}
     speed: 2
-    m_Value: {x: 3.6340122, y: 0.34840402, z: 0.018465118}
+    m_Value: {x: -0.5966136, y: 0.08998439, z: -0.028893892}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -930,9 +930,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 7.628145
+    m_Target: 5.9007115
     speed: 2
-    m_Value: 7.628145
+    m_Value: 5.9007115
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1065,7 +1065,7 @@ MonoBehaviour:
   - {fileID: 12}
   - {fileID: 13}
   m_Selected: 0
-  m_LastSelected: 2
+  m_LastSelected: 1
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1113,7 +1113,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Backgrounds
+    - Assets
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1123,17 +1123,17 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 68
   m_LastFolders:
-  - Assets/Backgrounds
+  - Assets
   m_LastFoldersGridSize: 68
   m_LastProjectPath: C:\Users\diego\OneDrive\Documentos\GitHub\PROJETO-ERON\PROJETO
     ERON
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 54.80002}
-    m_SelectedIDs: e8ba0000
-    m_LastClickedID: 47848
-    m_ExpandedIDs: 00000000d6b2000000ca9a3b
+    scrollPos: {x: 0, y: 2.8000183}
+    m_SelectedIDs: d6b20000
+    m_LastClickedID: 45782
+    m_ExpandedIDs: 00000000d6b200006e3d01007e3d010000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1162,7 +1162,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d6b2000000ca9a3b
+    m_ExpandedIDs: 00000000d6b200006e3d01007e3d010000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1219,7 +1219,7 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 68
   m_SkipHiddenPackages: 0
-  m_DirectoriesAreaWidth: 207
+  m_DirectoriesAreaWidth: 207.8
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1242,9 +1242,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 634
-    width: 1332
-    height: 352
+    y: 528.8
+    width: 1057.4
+    height: 241.19998
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1294,7 +1294,7 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -73506
+  m_LastSelectedObjectID: -243146
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1305,7 +1305,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: InspectorWindow
+  m_Name: GridPaintPaletteWindow
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -1314,14 +1314,14 @@ MonoBehaviour:
     y: 0
     width: 477.59998
     height: 716.8
-  m_MinSize: {x: 276, y: 76}
+  m_MinSize: {x: 357, y: 226}
   m_MaxSize: {x: 4001, y: 4026}
-  m_ActualView: {fileID: 15}
+  m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 15}
   - {fileID: 16}
-  m_Selected: 0
-  m_LastSelected: 1
+  m_Selected: 1
+  m_LastSelected: 0
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
